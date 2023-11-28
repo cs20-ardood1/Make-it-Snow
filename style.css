@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+canvas {
+  background-color: black;
+}
